@@ -1,0 +1,19 @@
+RULE-BASED CHATBOT – DEMO
+
+User: hello
+Chatbot: Hello! How can I help you?
+
+User: my name is Rahul
+Chatbot: Nice to meet you, Rahul!
+
+User: what is my name
+Chatbot: Your name is Rahul.
+
+User: can you help me
+Chatbot: You can greet me, ask my name, or type exit to quit.
+
+User: thanks
+Chatbot: You're welcome!
+
+User: bye
+Chatbot: Goodbye! Have a nice day.
