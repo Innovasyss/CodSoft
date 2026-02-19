@@ -1,7 +1,3 @@
-# chatbot.py
-# CodSoft AI Internship - Task 1
-# Advanced Rule-Based Chatbot
-
 import random
 import re
 
@@ -10,11 +6,6 @@ from rules import RULES
 
 
 def get_best_intent(user_input):
-    """
-    Find the best matching intent based on:
-    - Keyword match score
-    - Intent priority
-    """
     best_intent = None
     best_score = 0
     best_priority = -1
